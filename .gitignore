@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# Streamlit
+.streamlit/
+
+# Model files
+backend/model/*.pkl
+
+# Dataset files
+*.csv
+
+# OS files
+.DS_Store
