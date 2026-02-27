@@ -12,7 +12,7 @@ venv/
 .streamlit/
 
 # Model files
-backend/model/*.pkl
+# backend/model/*.pkl  # removed so pickles can be tracked in repo for deployment
 
 # Dataset files
 *.csv
